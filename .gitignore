@@ -95,3 +95,26 @@ logs/
 # *.csv
 # *.json
 # *.xlsx
+
+
+# =====================
+# Data (never commit)
+# =====================
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+
+# =====================
+# Secrets
+# =====================
+.kaggle/
+kaggle.json
+.env
+
+# =====================
+# OS / editor
+# =====================
+.DS_Store
+.vscode/
