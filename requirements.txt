@@ -6,3 +6,5 @@ jupyter
 pyarrow
 kaggle
 python-dotenv
+statsmodels>=0.14.0
+
