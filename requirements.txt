@@ -1,2 +1,8 @@
-pandas>=2.1.0
-matplotlib>=3.8.0
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
+pyarrow
+kaggle
+python-dotenv
