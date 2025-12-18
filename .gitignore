@@ -92,9 +92,9 @@ logs/
 *.sqlite3
 
 # Data files (uncomment if needed)
-# *.csv
-# *.json
-# *.xlsx
+*.csv
+*.json
+*.xlsx
 
 
 # =====================
